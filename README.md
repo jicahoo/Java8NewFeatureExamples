@@ -9,3 +9,4 @@ Some examples to use Java 8 new features, like lambda, stream
 
 # Reference
 * https://www.cnblogs.com/snowInPluto/p/5981400.html
+* http://www.infoq.com/cn/articles/How-Functional-is-Java-8
