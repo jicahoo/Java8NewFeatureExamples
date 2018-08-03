@@ -3,7 +3,7 @@ Some examples to use Java 8 new features, like lambda, stream
 
 # Java 8 是什么
 * 函数式编程：函数一等公民。
-* 集合框架，加上了流式接口，和流式接口上的并发。
+* 集合框架的增强，加上了基于函数式编程的流式接口，和流式接口上的并发。
 
 
 
